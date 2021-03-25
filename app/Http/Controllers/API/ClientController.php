@@ -2,6 +2,7 @@
 
 namespace App\Http\API\Controllers;
 
+use http\Client;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 
@@ -14,7 +15,7 @@ class ClientController extends Controller
      */
     public function index()
     {
-        //
+        return Client::all();
     }
 
     /**
