@@ -10,6 +10,10 @@ class Client extends Model
     use HasFactory;
 
     /**
+     * @var string
+     */
+    protected $table = 'clients';
+    /**
      * @var array
      */
     protected $fillable = [

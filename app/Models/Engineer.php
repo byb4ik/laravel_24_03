@@ -10,6 +10,10 @@ class Engineer extends Model
     use HasFactory;
 
     /**
+     * @var string
+     */
+    protected $table = 'engineers';
+    /**
      * @var array
      */
     protected $fillable = [

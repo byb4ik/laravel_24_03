@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\API\Controllers;
+namespace App\Http\Controllers\API;
 
-use http\Client;
+use App\Models\Client;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 
@@ -47,7 +47,7 @@ class ClientController extends Controller
      */
     public function show($id)
     {
-        //
+        return Client::findOrFail($id);
     }
 
     /**

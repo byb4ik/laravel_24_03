@@ -9,6 +9,7 @@ class Auto extends Model
 {
     use HasFactory;
 
+    protected $table = 'autos';
     /**
      * @var array
      */
