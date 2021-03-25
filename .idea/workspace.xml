@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5049bf4-3d5d-460d-9bcc-7602e5c1a827" name="Default Changelist" comment="" />
+    <list default="true" id="a5049bf4-3d5d-460d-9bcc-7602e5c1a827" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +148,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -166,7 +168,7 @@
       <workItem from="1616607966171" duration="1581000" />
       <workItem from="1616687112343" duration="1450000" />
       <workItem from="1616688858865" duration="581000" />
-      <workItem from="1616689453153" duration="2232000" />
+      <workItem from="1616689453153" duration="2697000" />
     </task>
     <servers />
   </component>
