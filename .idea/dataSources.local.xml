@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Amazon Aurora MySQL - laravel@localhost" uuid="0538d297-ee30-4ea1-a4ae-8a9b4433a5cf">
+      <database-info product="MySQL" version="8.0.23-0ubuntu0.20.04.1" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.6.0" dbms="MYSQL" exact-version="8.0.23" exact-driver-version="2.6">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>user</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="laravel" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
