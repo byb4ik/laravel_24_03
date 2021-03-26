@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Amazon Aurora MySQL - laravel@localhost" uuid="0538d297-ee30-4ea1-a4ae-8a9b4433a5cf">
+    <data-source source="LOCAL" name="Amazon Aurora MySQL - laravel@localhost" uuid="0a614692-2e9f-42f6-9684-4af6ef4ef4ba">
       <driver-ref>mysql_aurora</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>

@@ -14,7 +14,7 @@ class CreateEngineersTable extends Migration
     public function up()
     {
         Schema::create('engineers', function (Blueprint $table) {
-            $table->id();
+            $table->bigIncrements('id');
             $table->string('name');
             $table->integer('auto_id');
             $table->timestamps();
